@@ -1,4 +1,17 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+=======
+=======
+>>>>>>> b631507 (chore: update vim spell file)
+>>>>>>> b631507 (chore: update vim spell file)
+>>>>>>> b631507 (chore: update vim spell file)
+>>>>>>> b631507 (chore: update vim spell file)
 addr
+bitstream
 clangd
 CMD
 coc
@@ -15,6 +28,7 @@ decompresser
 DevIcons
 DSP
 DUT
+ebr
 EBR
 EBRs
 ECP5U
@@ -24,6 +38,7 @@ filelist
 filetype
 Foreach
 fpga
+frame_merger
 github
 gitignore
 gvim
@@ -59,6 +74,8 @@ powershell
 pre
 preponed
 Preponed
+preponed
+Preponed
 pre-process
 procedurally
 QuestaSim
@@ -66,6 +83,7 @@ randc
 README
 rebase
 rebased
+reconfiguring
 redrive
 resize
 resized
@@ -81,13 +99,14 @@ subclass
 subclasses
 submodule
 submodules
-systemverilog
 SystemVerilog
+systemverilog
 tb
 TBD9rain
 testbench
 testcase
 testcases
+UltiSnips
 ultisnips
 UltiSnips
 unmerged
